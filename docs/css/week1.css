@@ -5,14 +5,14 @@ body{
 #demo{
   font-family: STFangsong;
   position: relative;
-  left: 188px;
+  left: 128px;
   top: 25px;
   font-weight: bold;
 }
 
 #HeadNav{
   position: relative;
-  left: 888px;
+  left: 788px;
   word-spacing: 10px;
   text-decoration-line: none;
 }
