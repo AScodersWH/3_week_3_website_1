@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6b490b58-52e4-4f97-9c02-a92847563fd1" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/docs/css/week1.css" beforeDir="false" afterPath="$PROJECT_DIR$/docs/css/week1.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/week1.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/week1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/home-work-mockups/week1/assets/flexible-portfolio.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/home-work-mockups/week1/assets/flexible-preview.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/home-work-mockups/week1/assets/hero.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/home-work-mockups/week1/mockup/week-1.png" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -33,14 +28,14 @@
           <entry key="css" value="3" />
           <entry key="html" value="1" />
           <entry key="jpg" value="2" />
-          <entry key="png" value="8" />
+          <entry key="png" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CSS" value="3" />
           <entry key="HTML" value="1" />
-          <entry key="Image" value="10" />
+          <entry key="Image" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -63,14 +58,19 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/docs/week1.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="123">
-              <caret line="49" column="20" lean-forward="true" selection-start-line="49" selection-start-column="20" selection-end-line="49" selection-end-column="20" />
+            <state relative-caret-position="168">
+              <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
               <folding>
                 <element signature="n#style#0;n#button#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/docs/assets/search-icon.png">
+          <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -83,7 +83,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/docs/week-1.png">
+        <entry file="file://$PROJECT_DIR$/docs/assets/week-1.png">
           <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
@@ -164,6 +164,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/docs/assets" />
       <recent name="$PROJECT_DIR$/docs" />
       <recent name="$PROJECT_DIR$/docs/home-work-mockups" />
     </key>
@@ -191,18 +192,18 @@
       <option name="presentableId" value="Default" />
       <updated>1535020383870</updated>
       <workItem from="1535020385285" duration="3608000" />
-      <workItem from="1535348577222" duration="11801000" />
+      <workItem from="1535348577222" duration="12487000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15409000" />
+    <option name="totallyTimeSpent" value="16095000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="467" y="98" width="1106" height="733" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2092166" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2092166" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Gulp" order="2" side_tool="true" />
       <window_info id="npm" order="3" side_tool="true" />
@@ -217,7 +218,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.36661467" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.36661467" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -254,19 +255,13 @@
     <entry file="file://$PROJECT_DIR$/search-icon (1).png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/docs/sea.jpg">
+    <entry file="file://$PROJECT_DIR$/docs/assets/sea.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/docs/seaComputer.png">
+    <entry file="file://$PROJECT_DIR$/docs/assets/seaComputer.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/docs/colorfulComputer.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/search-icon.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/week-1.png">
+    <entry file="file://$PROJECT_DIR$/docs/assets/colorfulComputer.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/docs/css/week1.css">
@@ -276,10 +271,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/docs/assets/week-1.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/assets/search-icon.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/docs/week1.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="123">
-          <caret line="49" column="20" lean-forward="true" selection-start-line="49" selection-start-column="20" selection-end-line="49" selection-end-column="20" />
+        <state relative-caret-position="168">
+          <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
           <folding>
             <element signature="n#style#0;n#button#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
